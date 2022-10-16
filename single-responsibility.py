@@ -1,4 +1,4 @@
-# Single repossibility principle
+# Single reposibility principle
 # a class should have a single responsibility
 # a class should only have one reason to change
 
