@@ -5,11 +5,11 @@
 # From Uncle Bob's book:
 # Any module (set of functions, class, source code, package) - should be changed only by one actor
 
-# The purposes of the single responsibility principle are to:
+# BENEFITS:
 #
-# Create high cohesive and robust classes, methods, and functions.
-# Promote class composition
-# Avoid code duplication
+# Testing – A class with one responsibility will have far fewer test cases.
+# Lower coupling – Less functionality in a single class will have fewer dependencies.
+# Organization – Smaller, well-organized classes are easier to search than monolithic ones.
 
 # EXAMPLE 1
 #Three different stakeholders use this class:
