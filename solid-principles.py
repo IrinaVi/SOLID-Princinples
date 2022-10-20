@@ -4,4 +4,11 @@
 # changing the way that we write software.
 
 # Martin and Feathers' design principles encourage us to create more maintainable, understandable, and flexible software.
-# Consequently, as our applications grow in size, we can reduce their complexity and save ourselves a lot of headaches further down the road!
+# Consequently, as our applications grow in size, we can reduce their complexity and save
+# ourselves a lot of headaches further down the road!
+
+# S – Single Responsibility Principle
+# O – Open-closed Principle
+# L – Liskov Substitution Principle
+# I – Interface Segregation Principle
+# D – Dependency Inversion Principle

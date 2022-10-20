@@ -31,7 +31,6 @@ class Employee:
 # Now the HR will see the wrong data because the private method that is used  by both functions was changed
 # Three different public methods of one class corresponded to different actors of the software
 # The requirements for change should come only from one stakeholder or a business requirement
-
 # Solution
 
 class Calculate_salary:
@@ -42,9 +41,6 @@ class Save_data:
 
 
 # EXAMPLE 2
-
-import json
-
 
 class Page():
     def __init__(self, title):

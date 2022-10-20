@@ -1,4 +1,5 @@
-# Created by Barbara Liskov in a 1987, this states that objects should be replaceable by their subtypes without altering how the program works.
+# Created by Barbara Liskov in a 1987, this states that objects should be replaceable
+# by their subtypes without altering how the program works.
 # In other words, derived classes must be substitutable for their base classes without causing errors.
 
 class Rectangle():
